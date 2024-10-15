@@ -4,4 +4,4 @@ El presente proyecto se realizó con el objetivo de desarrollar nuestra propia a
 La aplicación nos muestra las ventas realizadas en Estados Unidos, aunque no especifica en qué ciudad sí nos dice que fueron en el año 2018 y 2019. 
 Podemos observar una relación entre el número de kilómetros recorridos por el vehículo y el costo del mismo, sin embargo, es importante señalar que existen otras variables que influyen en el costo del vehículo.
 
-Link: https://project-sprint6.onrender.com
+Link: https://project-sprint6-2.onrender.com/
